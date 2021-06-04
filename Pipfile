@@ -7,7 +7,7 @@ verify_ssl = true
 pylint = "*"
 
 [packages]
-django = "==2.2.1"
+django = "==2.2.21"
 astroid = "==2.2.5"
 autopep8 = "==1.4.3"
 beautifulsoup4 = "==4.7.1"
